@@ -1,6 +1,8 @@
 # SoldItemsFilterWithNet
 Paul Macfarlane  
   
+Test this program by running static main() method in SoldItem.cs  
+  
 A c# program with a function that takes in a list of sold items and filters the sold items in such a way that includes only:  
 * only profitable items (SalesPrice - Cost >0)  
 * that were sold exactly once (Only one instance of the product name and serial number)  
